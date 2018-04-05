@@ -1,0 +1,17 @@
+
+
+<root>
+<Parameter "parameterName1">  
+  <ParameterSettings> 
+    <ValueMin> float value    </ValueMin>
+    <ValueMax> float value    </ValueMax>
+  </ParameterSettings>
+  <MidiSettings> </MidiSettings>
+
+</Parameter>
+
+<Parameter "parameterName2"> </Parameter>
+
+
+
+</root>

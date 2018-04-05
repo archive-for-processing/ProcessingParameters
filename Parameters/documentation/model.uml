@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmi:id="_ggheASBvEeCIuYJC6eFEhA" name="model">
+  <packagedElement xmi:type="uml:Class" xmi:id="_iUO3UCBvEeCIuYJC6eFEhA" name="Parameter" visibility="package">
+    <ownedAttribute xmi:id="_4kX4kCBvEeCIuYJC6eFEhA" name="midiManager" visibility="public">
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_7ame0CBvEeCIuYJC6eFEhA" value="1"/>
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_7akpoCBvEeCIuYJC6eFEhA" value="1"/>
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_7ans8CBvEeCIuYJC6eFEhA">
+        <value xsi:nil="true"/>
+      </defaultValue>
+    </ownedAttribute>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_jzV5oCBvEeCIuYJC6eFEhA" name="MidiManager"/>
+  <packagedElement xmi:type="uml:Package" xmi:id="_Neds4CBwEeCIuYJC6eFEhA" name="Parameters"/>
+</uml:Model>

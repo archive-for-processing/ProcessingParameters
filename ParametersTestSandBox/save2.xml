@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ParametersManager SchemaVersion="0.9">
+  <Parameter name="circleX">
+    <ParameterSettings>
+      <ValueMin>0.0</ValueMin>
+      <ValueMax>1.0</ValueMax>
+      <Value>0.1953125</Value>
+    </ParameterSettings>
+    <MidiSettings>
+      <MidiInputBus>IAC Driver - IAC Bus 1</MidiInputBus>
+      <MidiInputType>PITCHBEND</MidiInputType>
+      <MidiInputChannel>10</MidiInputChannel>
+      <MidiInputNumber>11</MidiInputNumber>
+      <MidiOutputBus>IAC Driver - IAC Bus 1</MidiOutputBus>
+      <MidiOutputType>PITCHBEND</MidiOutputType>
+      <MidiOutputChannel>10</MidiOutputChannel>
+      <MidiOutputNumber>11</MidiOutputNumber>
+    </MidiSettings>
+  </Parameter>
+  <Parameter name="circleY">
+    <ParameterSettings>
+      <ValueMin>0.0</ValueMin>
+      <ValueMax>1.0</ValueMax>
+      <Value>0.1953125</Value>
+    </ParameterSettings>
+    <MidiSettings>
+      <MidiInputBus>All Inputs</MidiInputBus>
+      <MidiInputType>CONTROL_CHANGE</MidiInputType>
+      <MidiInputChannel>1</MidiInputChannel>
+      <MidiInputNumber>1</MidiInputNumber>
+      <MidiOutputBus>None</MidiOutputBus>
+      <MidiOutputType>CONTROL_CHANGE</MidiOutputType>
+      <MidiOutputChannel>1</MidiOutputChannel>
+      <MidiOutputNumber>1</MidiOutputNumber>
+    </MidiSettings>
+  </Parameter>
+  <Parameter name="circleWidth">
+    <ParameterSettings>
+      <ValueMin>0.0</ValueMin>
+      <ValueMax>1.0</ValueMax>
+      <Value>0.1953125</Value>
+    </ParameterSettings>
+    <MidiSettings>
+      <MidiInputBus>All Inputs</MidiInputBus>
+      <MidiInputType>CONTROL_CHANGE</MidiInputType>
+      <MidiInputChannel>1</MidiInputChannel>
+      <MidiInputNumber>1</MidiInputNumber>
+      <MidiOutputBus>None</MidiOutputBus>
+      <MidiOutputType>CONTROL_CHANGE</MidiOutputType>
+      <MidiOutputChannel>1</MidiOutputChannel>
+      <MidiOutputNumber>1</MidiOutputNumber>
+    </MidiSettings>
+  </Parameter>
+  <Parameter name="parameter4">
+    <ParameterSettings>
+      <ValueMin>0.0</ValueMin>
+      <ValueMax>1.0</ValueMax>
+      <Value>0.1953125</Value>
+    </ParameterSettings>
+    <MidiSettings>
+      <MidiInputBus>All Inputs</MidiInputBus>
+      <MidiInputType>CONTROL_CHANGE</MidiInputType>
+      <MidiInputChannel>1</MidiInputChannel>
+      <MidiInputNumber>1</MidiInputNumber>
+      <MidiOutputBus>None</MidiOutputBus>
+      <MidiOutputType>CONTROL_CHANGE</MidiOutputType>
+      <MidiOutputChannel>1</MidiOutputChannel>
+      <MidiOutputNumber>1</MidiOutputNumber>
+    </MidiSettings>
+  </Parameter>
+</ParametersManager>
